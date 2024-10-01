@@ -1,2 +1,2 @@
-  msg = "Hello, Git Actions!"
-  print(msg)
+msg="Hello, Git Actions!"
+print(msg)
